@@ -1,2 +1,4 @@
 /curriculos/*
 /node_modules*
+*.xls
+*.xml
