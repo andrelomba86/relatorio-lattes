@@ -1,1 +1,2 @@
-./curriculos/*
+/curriculos/*
+/node_modules*
