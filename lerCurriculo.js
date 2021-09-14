@@ -1,8 +1,11 @@
 import { readdir, readFile } from 'fs/promises'
 
+import xml2js from 'xml2js'
+const parser = new xml2js.Parser()
+
 const dir = './curriculos/'
 
-async function lerCurriculo(arquivo) {
+export async function readLattes(arquivo) {
   return readFile(dir + arquivo, 'binary')
 }
 
@@ -16,5 +19,16 @@ async function lerCurriculo(arquivo) {
 //   //   const curriculo = lerCurriculo(file)
 //   // })
 // }
+export const getLattesData = (function () {
+  let dadosCurriculo = {}
+  return async arquivo => {
+    if (!dadosCurriculo[arquivo]) {
+      dadosCurriculo[arquivo] = await readLattes(arquivo)
+    }
 
-export { lerCurriculo }
+    const lattesJSON = await parser.parseStringPromise(dadosCurriculo[arquivo])
+
+    // const dadosProducaoJSON = lattesJSON[CURRICULO][PRODUCAO][0]
+    return lattesJSON
+  }
+})()

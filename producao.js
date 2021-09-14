@@ -1,25 +1,45 @@
-import { ARTIGOS, PRODUCAO, CURRICULO, EVENTOS, LIVROS } from './consts.js'
+import {
+  ARTIGOS,
+  PRODUCAO,
+  PRODUCAO_TECNICA,
+  CURRICULO,
+  EVENTOS,
+  LIVROS,
+  JORNAIS_REVISTAS,
+  OUTRAS,
+  TECNICAS,
+} from './consts.js'
 import { checarAnoTrabalhos } from './checarAno.js'
 import { lerCurriculo } from './lerCurriculo.js'
 
 import xml2js from 'xml2js'
 const parser = new xml2js.Parser()
 
-export const producaoBibliografica = (function () {
-  let dadosProducao = {}
+export const dadosCurriculo = (function () {
+  let dadosCurriculo = {}
   return async arquivo => {
-    if (!dadosProducao[arquivo]) {
-      console.log('-> ', arquivo)
-      dadosProducao[arquivo] = await lerCurriculo(arquivo)
+    if (!dadosCurriculo[arquivo]) {
+      dadosCurriculo[arquivo] = await lerCurriculo(arquivo)
     }
 
-    const lattesJSON = await parser.parseStringPromise(dadosProducao[arquivo])
+    const lattesJSON = await parser.parseStringPromise(dadosCurriculo[arquivo])
 
-    const dadosProducaoJSON = lattesJSON[CURRICULO][PRODUCAO][0]
-    return dadosProducaoJSON
+    // const dadosProducaoJSON = lattesJSON[CURRICULO][PRODUCAO][0]
+    return lattesJSON
   }
 })()
 
+const producaoBibliografica = async arquivo => {
+  const curriculo = await dadosCurriculo(arquivo)
+  const producoes = curriculo[CURRICULO][PRODUCAO][0]
+  return producoes
+}
+
+const producoesTecnicas = async arquivo => {
+  const curriculo = await dadosCurriculo(arquivo)
+  const producoes = curriculo[CURRICULO][PRODUCAO_TECNICA]
+  return producoes
+}
 export async function artigosPublicados(arquivo) {
   const producao = await producaoBibliografica(arquivo)
   let artigosPublicados = producao[ARTIGOS.CABECALHO]
@@ -185,4 +205,132 @@ export async function capitulosDeLivros(arquivo) {
   })
 
   return capitulosLista
+}
+
+export async function jornalOuRevista(arquivo) {
+  const producao = await producaoBibliografica(arquivo)
+  let jornaisOuRevistas =
+    producao[JORNAIS_REVISTAS.CABECALHO]?.[0]?.[
+      JORNAIS_REVISTAS.JORNAL_OU_REVISTA
+    ]
+
+  const jornaisOuRevistasLista = []
+  let index = 0
+
+  jornaisOuRevistas?.forEach(jornalOuRevista => {
+    const dados = jornalOuRevista[JORNAIS_REVISTAS.DADOS][0]['$']
+    const autores = jornalOuRevista[JORNAIS_REVISTAS.AUTORES]
+    const detalhes = jornalOuRevista[JORNAIS_REVISTAS.DETALHES][0]['$']
+
+    let autoresLista = []
+
+    autores?.forEach(autor => {
+      const indiceAutor = autor['$'][JORNAIS_REVISTAS.ORDEM_AUTORIA] - 1
+      const nome = autor['$'][JORNAIS_REVISTAS.CITACAO_AUTOR]
+      autoresLista[indiceAutor] = nome
+    })
+
+    const ano = parseInt(dados[JORNAIS_REVISTAS.ANO])
+
+    if (checarAnoTrabalhos(ano)) {
+      jornaisOuRevistasLista[index] = {
+        Arquivo: arquivo,
+        Ano: ano,
+        Autores: autoresLista.join('; '),
+        Titulo: dados[JORNAIS_REVISTAS.TITULO],
+        'Titulo do jornal ou revista':
+          detalhes[JORNAIS_REVISTAS.TITULO_DO_JORNAL_REVISTA],
+        Pais: dados[JORNAIS_REVISTAS.PAIS],
+        Idioma: dados[JORNAIS_REVISTAS.IDIOMA],
+      }
+      index++
+    }
+  })
+
+  return jornaisOuRevistasLista
+}
+
+export async function outrasProducoes(arquivo) {
+  const producao = await producaoBibliografica(arquivo)
+  let outras = producao[OUTRAS.CABECALHO]?.[0]?.[OUTRAS.OUTRA]
+
+  const outrasLista = []
+  let index = 0
+
+  outras?.forEach(outra => {
+    // if (!outra[OUTRAS.DADOS]) return
+    const dados = outra[OUTRAS.DADOS][0]['$']
+    const autores = outra[OUTRAS.AUTORES]
+    const detalhes = outra[OUTRAS.DETALHES][0]['$']
+
+    let autoresLista = []
+
+    autores?.forEach(autor => {
+      const indiceAutor = autor['$'][OUTRAS.ORDEM_AUTORIA] - 1
+      const nome = autor['$'][OUTRAS.CITACAO_AUTOR]
+      autoresLista[indiceAutor] = nome
+    })
+
+    const ano = parseInt(dados[OUTRAS.ANO])
+
+    if (checarAnoTrabalhos(ano)) {
+      outrasLista[index] = {
+        Arquivo: arquivo,
+        Ano: ano,
+        Autores: autoresLista.join('; '),
+        Titulo: dados[OUTRAS.TITULO],
+        Natureza: dados[OUTRAS.NATUREZA],
+        Editora: detalhes[OUTRAS.EDITORA],
+        Pais: dados[OUTRAS.PAIS],
+        Idioma: dados[OUTRAS.IDIOMA],
+      }
+      index++
+    }
+  })
+
+  return outrasLista
+}
+
+export async function todasProducoesTecnicas(arquivo) {
+  // const producao = await producoesTecnicas(arquivo)
+  // let tecnicas = producao[TECNICAS.CABECALHO]?.[0]?.[TECNICAS.OUTRA]
+  const tecnicas = await producoesTecnicas(arquivo)
+
+  const tecnicasLista = []
+  let index = 0
+
+  tecnicas?.forEach((outra, key) => {
+    console.log(outra)
+    return
+    // if (!outra[OUTRAS.DADOS]) return
+    const dados = outra[TECNICAS.DADOS][0]['$']
+    const autores = outra[TECNICAS.AUTORES]
+    const detalhes = outra[TECNICAS.DETALHES][0]['$']
+
+    let autoresLista = []
+
+    autores?.forEach(autor => {
+      const indiceAutor = autor['$'][TECNICAS.ORDEM_AUTORIA] - 1
+      const nome = autor['$'][TECNICAS.CITACAO_AUTOR]
+      autoresLista[indiceAutor] = nome
+    })
+
+    const ano = parseInt(dados[TECNICAS.ANO])
+
+    if (checarAnoTrabalhos(ano)) {
+      tecnicasLista[index] = {
+        Arquivo: arquivo,
+        Ano: ano,
+        Autores: autoresLista.join('; '),
+        Titulo: dados[TECNICAS.TITULO],
+        Natureza: dados[TECNICAS.NATUREZA],
+        Editora: detalhes[TECNICAS.EDITORA],
+        Pais: dados[TECNICAS.PAIS],
+        Idioma: dados[TECNICAS.IDIOMA],
+      }
+      index++
+    }
+  })
+
+  return tecnicasLista
 }

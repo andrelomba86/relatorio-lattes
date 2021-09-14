@@ -1,0 +1,4556 @@
+{
+  'CURRICULO-VITAE': {
+    '$': {
+      'SISTEMA-ORIGEM-XML': 'LATTES_OFFLINE',
+      'NUMERO-IDENTIFICADOR': '1989662459244838',
+      'DATA-ATUALIZACAO': '01112020',
+      'HORA-ATUALIZACAO': '230226'
+    },
+    'DADOS-GERAIS': [ [Object] ],
+    'PRODUCAO-BIBLIOGRAFICA': [ [Object] ],
+    'PRODUCAO-TECNICA': [ [Object] ],
+    'OUTRA-PRODUCAO': [ [Object] ],
+    'DADOS-COMPLEMENTARES': [ [Object] ]
+  }
+}
+* CURRICULO-VITAE ====> {
+  'CURRICULO-VITAE': {
+    '$': {
+      'SISTEMA-ORIGEM-XML': 'LATTES_OFFLINE',
+      'NUMERO-IDENTIFICADOR': '1989662459244838',
+      'DATA-ATUALIZACAO': '01112020',
+      'HORA-ATUALIZACAO': '230226'
+    },
+    'DADOS-GERAIS': [ [Object] ],
+    'PRODUCAO-BIBLIOGRAFICA': [ [Object] ],
+    'PRODUCAO-TECNICA': [ [Object] ],
+    'OUTRA-PRODUCAO': [ [Object] ],
+    'DADOS-COMPLEMENTARES': [ [Object] ]
+  }
+}
+{
+  '$': {
+    'SISTEMA-ORIGEM-XML': 'LATTES_OFFLINE',
+    'NUMERO-IDENTIFICADOR': '1989662459244838',
+    'DATA-ATUALIZACAO': '01112020',
+    'HORA-ATUALIZACAO': '230226'
+  },
+  'DADOS-GERAIS': [
+    {
+      '$': [Object],
+      'RESUMO-CV': [Array],
+      'OUTRAS-INFORMACOES-RELEVANTES': [Array],
+      ENDERECO: [Array],
+      'FORMACAO-ACADEMICA-TITULACAO': [Array],
+      'ATUACOES-PROFISSIONAIS': [Array],
+      'AREAS-DE-ATUACAO': [Array],
+      IDIOMAS: [Array],
+      'PREMIOS-TITULOS': [Array]
+    }
+  ],
+  'PRODUCAO-BIBLIOGRAFICA': [
+    {
+      'TRABALHOS-EM-EVENTOS': [Array],
+      'ARTIGOS-PUBLICADOS': [Array],
+      'LIVROS-E-CAPITULOS': [Array],
+      'TEXTOS-EM-JORNAIS-OU-REVISTAS': [Array],
+      'DEMAIS-TIPOS-DE-PRODUCAO-BIBLIOGRAFICA': [Array]
+    }
+  ],
+  'PRODUCAO-TECNICA': [
+    {
+      SOFTWARE: [Array],
+      'TRABALHO-TECNICO': [Array],
+      'DEMAIS-TIPOS-DE-PRODUCAO-TECNICA': [Array]
+    }
+  ],
+  'OUTRA-PRODUCAO': [ { 'ORIENTACOES-CONCLUIDAS': [Array] } ],
+  'DADOS-COMPLEMENTARES': [
+    {
+      'FORMACAO-COMPLEMENTAR': [Array],
+      'PARTICIPACAO-EM-BANCA-TRABALHOS-CONCLUSAO': [Array],
+      'PARTICIPACAO-EM-BANCA-JULGADORA': [Array],
+      'PARTICIPACAO-EM-EVENTOS-CONGRESSOS': [Array],
+      'ORIENTACOES-EM-ANDAMENTO': [Array],
+      'INFORMACOES-ADICIONAIS-INSTITUICOES': [Array],
+      'INFORMACOES-ADICIONAIS-CURSOS': [Array]
+    }
+  ]
+}
+* PRODUCAO-BIBLIOGRAFICA ====> {
+  '$': {
+    'SISTEMA-ORIGEM-XML': 'LATTES_OFFLINE',
+    'NUMERO-IDENTIFICADOR': '1989662459244838',
+    'DATA-ATUALIZACAO': '01112020',
+    'HORA-ATUALIZACAO': '230226'
+  },
+  'DADOS-GERAIS': [
+    {
+      '$': [Object],
+      'RESUMO-CV': [Array],
+      'OUTRAS-INFORMACOES-RELEVANTES': [Array],
+      ENDERECO: [Array],
+      'FORMACAO-ACADEMICA-TITULACAO': [Array],
+      'ATUACOES-PROFISSIONAIS': [Array],
+      'AREAS-DE-ATUACAO': [Array],
+      IDIOMAS: [Array],
+      'PREMIOS-TITULOS': [Array]
+    }
+  ],
+  'PRODUCAO-BIBLIOGRAFICA': [
+    {
+      'TRABALHOS-EM-EVENTOS': [Array],
+      'ARTIGOS-PUBLICADOS': [Array],
+      'LIVROS-E-CAPITULOS': [Array],
+      'TEXTOS-EM-JORNAIS-OU-REVISTAS': [Array],
+      'DEMAIS-TIPOS-DE-PRODUCAO-BIBLIOGRAFICA': [Array]
+    }
+  ],
+  'PRODUCAO-TECNICA': [
+    {
+      SOFTWARE: [Array],
+      'TRABALHO-TECNICO': [Array],
+      'DEMAIS-TIPOS-DE-PRODUCAO-TECNICA': [Array]
+    }
+  ],
+  'OUTRA-PRODUCAO': [ { 'ORIENTACOES-CONCLUIDAS': [Array] } ],
+  'DADOS-COMPLEMENTARES': [
+    {
+      'FORMACAO-COMPLEMENTAR': [Array],
+      'PARTICIPACAO-EM-BANCA-TRABALHOS-CONCLUSAO': [Array],
+      'PARTICIPACAO-EM-BANCA-JULGADORA': [Array],
+      'PARTICIPACAO-EM-EVENTOS-CONGRESSOS': [Array],
+      'ORIENTACOES-EM-ANDAMENTO': [Array],
+      'INFORMACOES-ADICIONAIS-INSTITUICOES': [Array],
+      'INFORMACOES-ADICIONAIS-CURSOS': [Array]
+    }
+  ]
+}
+[
+  {
+    'TRABALHOS-EM-EVENTOS': [ [Object] ],
+    'ARTIGOS-PUBLICADOS': [ [Object] ],
+    'LIVROS-E-CAPITULOS': [ [Object] ],
+    'TEXTOS-EM-JORNAIS-OU-REVISTAS': [ [Object] ],
+    'DEMAIS-TIPOS-DE-PRODUCAO-BIBLIOGRAFICA': [ [Object] ]
+  }
+]
+* 0 ====> [
+  {
+    'TRABALHOS-EM-EVENTOS': [ [Object] ],
+    'ARTIGOS-PUBLICADOS': [ [Object] ],
+    'LIVROS-E-CAPITULOS': [ [Object] ],
+    'TEXTOS-EM-JORNAIS-OU-REVISTAS': [ [Object] ],
+    'DEMAIS-TIPOS-DE-PRODUCAO-BIBLIOGRAFICA': [ [Object] ]
+  }
+]
+{
+  'TRABALHOS-EM-EVENTOS': [ { 'TRABALHO-EM-EVENTOS': [Array] } ],
+  'ARTIGOS-PUBLICADOS': [ { 'ARTIGO-PUBLICADO': [Array] } ],
+  'LIVROS-E-CAPITULOS': [
+    {
+      'LIVROS-PUBLICADOS-OU-ORGANIZADOS': [Array],
+      'CAPITULOS-DE-LIVROS-PUBLICADOS': [Array]
+    }
+  ],
+  'TEXTOS-EM-JORNAIS-OU-REVISTAS': [ { 'TEXTO-EM-JORNAL-OU-REVISTA': [Array] } ],
+  'DEMAIS-TIPOS-DE-PRODUCAO-BIBLIOGRAFICA': [ { 'OUTRA-PRODUCAO-BIBLIOGRAFICA': [Array] } ]
+}
+* TRABALHOS-EM-EVENTOS ====> {
+  'TRABALHOS-EM-EVENTOS': [ { 'TRABALHO-EM-EVENTOS': [Array] } ],
+  'ARTIGOS-PUBLICADOS': [ { 'ARTIGO-PUBLICADO': [Array] } ],
+  'LIVROS-E-CAPITULOS': [
+    {
+      'LIVROS-PUBLICADOS-OU-ORGANIZADOS': [Array],
+      'CAPITULOS-DE-LIVROS-PUBLICADOS': [Array]
+    }
+  ],
+  'TEXTOS-EM-JORNAIS-OU-REVISTAS': [ { 'TEXTO-EM-JORNAL-OU-REVISTA': [Array] } ],
+  'DEMAIS-TIPOS-DE-PRODUCAO-BIBLIOGRAFICA': [ { 'OUTRA-PRODUCAO-BIBLIOGRAFICA': [Array] } ]
+}
+[
+  {
+    'TRABALHO-EM-EVENTOS': [
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      ... 62 more items
+    ]
+  }
+]
+* 0 ====> [
+  {
+    'TRABALHO-EM-EVENTOS': [
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      ... 62 more items
+    ]
+  }
+]
+{
+  'TRABALHO-EM-EVENTOS': [
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array]
+    },
+    ... 62 more items
+  ]
+}
+* TRABALHO-EM-EVENTOS ====> {
+  'TRABALHO-EM-EVENTOS': [
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array]
+    },
+    ... 62 more items
+  ]
+}
+[
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '5' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '11' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '12' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '13' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '15' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '18' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '19' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '20' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '23' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '56' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '57' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '62' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '63' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '64' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '65' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '67' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '68' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '69' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '70' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '71' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '72' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '73' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '74' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '75' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '76' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '77' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '78' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '79' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '80' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '81' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '82' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '83' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '86' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '87' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '88' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '89' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '90' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '91' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '92' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '93' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '94' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '95' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '96' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '97' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '98' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '99' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '100' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '101' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '102' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '103' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '104' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '105' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '106' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '161' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '163' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '164' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '165' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '167' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '168' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '169' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '170' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '179' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '180' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '181' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '182' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '183' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '206' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '207' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '208' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '209' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '210' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '212' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '213' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '217' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '218' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '219' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '220' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '221' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '222' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '223' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '224' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '225' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '264' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '284' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '285' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '286' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '288' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '310' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '321' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '322' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '323' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '324' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '325' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '326' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '327' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '328' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '329' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '330' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '331' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '406' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ]
+  },
+  ... 62 more items
+]
+* 0 ====> [
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '5' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '11' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '12' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '13' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '15' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '18' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '19' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '20' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '23' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '56' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '57' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '62' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '63' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '64' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '65' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '67' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '68' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '69' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '70' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '71' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '72' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '73' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '74' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '75' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '76' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '77' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '78' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '79' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '80' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '81' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '82' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '83' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '86' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '87' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '88' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '89' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '90' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '91' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '92' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '93' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '94' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '95' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '96' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '97' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '98' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '99' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '100' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '101' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '102' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '103' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '104' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '105' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '106' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '161' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '163' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '164' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '165' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '167' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '168' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '169' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '170' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '179' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '180' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '181' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '182' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '183' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '206' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '207' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '208' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '209' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '210' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '212' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '213' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '217' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '218' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '219' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '220' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '221' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '222' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '223' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '224' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '225' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '264' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '284' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '285' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '286' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '288' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '310' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '321' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '322' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '323' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '324' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '325' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '326' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '327' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '328' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '329' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '330' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '331' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object], [Object] ],
+    'PALAVRAS-CHAVE': [ [Object] ],
+    'AREAS-DO-CONHECIMENTO': [ [Object] ],
+    'SETORES-DE-ATIVIDADE': [ [Object] ]
+  },
+  {
+    '$': { 'SEQUENCIA-PRODUCAO': '406' },
+    'DADOS-BASICOS-DO-TRABALHO': [ [Object] ],
+    'DETALHAMENTO-DO-TRABALHO': [ [Object] ],
+    AUTORES: [ [Object], [Object] ]
+  },
+  ... 62 more items
+]
+{
+  '$': { 'SEQUENCIA-PRODUCAO': '5' },
+  'DADOS-BASICOS-DO-TRABALHO': [ { '$': [Object] } ],
+  'DETALHAMENTO-DO-TRABALHO': [ { '$': [Object] } ],
+  AUTORES: [
+    { '$': [Object] },
+    { '$': [Object] },
+    { '$': [Object] },
+    { '$': [Object] }
+  ],
+  'PALAVRAS-CHAVE': [ { '$': [Object] } ],
+  'AREAS-DO-CONHECIMENTO': [
+    {
+      'AREA-DO-CONHECIMENTO-1': [Array],
+      'AREA-DO-CONHECIMENTO-2': [Array]
+    }
+  ],
+  'SETORES-DE-ATIVIDADE': [ { '$': [Object] } ]
+}
+* DADOS-BASICOS-DO-TRABALHO ====> {
+  '$': { 'SEQUENCIA-PRODUCAO': '5' },
+  'DADOS-BASICOS-DO-TRABALHO': [ { '$': [Object] } ],
+  'DETALHAMENTO-DO-TRABALHO': [ { '$': [Object] } ],
+  AUTORES: [
+    { '$': [Object] },
+    { '$': [Object] },
+    { '$': [Object] },
+    { '$': [Object] }
+  ],
+  'PALAVRAS-CHAVE': [ { '$': [Object] } ],
+  'AREAS-DO-CONHECIMENTO': [
+    {
+      'AREA-DO-CONHECIMENTO-1': [Array],
+      'AREA-DO-CONHECIMENTO-2': [Array]
+    }
+  ],
+  'SETORES-DE-ATIVIDADE': [ { '$': [Object] } ]
+}
+[
+  {
+    '$': {
+      NATUREZA: 'COMPLETO',
+      'TITULO-DO-TRABALHO': 'Considerações sobre a evolução tectônica da Bacia do São Francisco.',
+      'ANO-DO-TRABALHO': '1988',
+      'PAIS-DO-EVENTO': 'Brasil',
+      IDIOMA: 'Português',
+      'MEIO-DE-DIVULGACAO': 'IMPRESSO',
+      'HOME-PAGE-DO-TRABALHO': '',
+      'FLAG-RELEVANCIA': 'NAO',
+      DOI: '',
+      'TITULO-DO-TRABALHO-INGLES': '',
+      'FLAG-DIVULGACAO-CIENTIFICA': 'NAO'
+    }
+  }
+]
+* 0 ====> [
+  {
+    '$': {
+      NATUREZA: 'COMPLETO',
+      'TITULO-DO-TRABALHO': 'Considerações sobre a evolução tectônica da Bacia do São Francisco.',
+      'ANO-DO-TRABALHO': '1988',
+      'PAIS-DO-EVENTO': 'Brasil',
+      IDIOMA: 'Português',
+      'MEIO-DE-DIVULGACAO': 'IMPRESSO',
+      'HOME-PAGE-DO-TRABALHO': '',
+      'FLAG-RELEVANCIA': 'NAO',
+      DOI: '',
+      'TITULO-DO-TRABALHO-INGLES': '',
+      'FLAG-DIVULGACAO-CIENTIFICA': 'NAO'
+    }
+  }
+]
+{
+  '$': {
+    NATUREZA: 'COMPLETO',
+    'TITULO-DO-TRABALHO': 'Considerações sobre a evolução tectônica da Bacia do São Francisco.',
+    'ANO-DO-TRABALHO': '1988',
+    'PAIS-DO-EVENTO': 'Brasil',
+    IDIOMA: 'Português',
+    'MEIO-DE-DIVULGACAO': 'IMPRESSO',
+    'HOME-PAGE-DO-TRABALHO': '',
+    'FLAG-RELEVANCIA': 'NAO',
+    DOI: '',
+    'TITULO-DO-TRABALHO-INGLES': '',
+    'FLAG-DIVULGACAO-CIENTIFICA': 'NAO'
+  }
+}
+* $ ====> {
+  '$': {
+    NATUREZA: 'COMPLETO',
+    'TITULO-DO-TRABALHO': 'Considerações sobre a evolução tectônica da Bacia do São Francisco.',
+    'ANO-DO-TRABALHO': '1988',
+    'PAIS-DO-EVENTO': 'Brasil',
+    IDIOMA: 'Português',
+    'MEIO-DE-DIVULGACAO': 'IMPRESSO',
+    'HOME-PAGE-DO-TRABALHO': '',
+    'FLAG-RELEVANCIA': 'NAO',
+    DOI: '',
+    'TITULO-DO-TRABALHO-INGLES': '',
+    'FLAG-DIVULGACAO-CIENTIFICA': 'NAO'
+  }
+}
+{
+  NATUREZA: 'COMPLETO',
+  'TITULO-DO-TRABALHO': 'Considerações sobre a evolução tectônica da Bacia do São Francisco.',
+  'ANO-DO-TRABALHO': '1988',
+  'PAIS-DO-EVENTO': 'Brasil',
+  IDIOMA: 'Português',
+  'MEIO-DE-DIVULGACAO': 'IMPRESSO',
+  'HOME-PAGE-DO-TRABALHO': '',
+  'FLAG-RELEVANCIA': 'NAO',
+  DOI: '',
+  'TITULO-DO-TRABALHO-INGLES': '',
+  'FLAG-DIVULGACAO-CIENTIFICA': 'NAO'
+}
+* NATUREZA ====> {
+  NATUREZA: 'COMPLETO',
+  'TITULO-DO-TRABALHO': 'Considerações sobre a evolução tectônica da Bacia do São Francisco.',
+  'ANO-DO-TRABALHO': '1988',
+  'PAIS-DO-EVENTO': 'Brasil',
+  IDIOMA: 'Português',
+  'MEIO-DE-DIVULGACAO': 'IMPRESSO',
+  'HOME-PAGE-DO-TRABALHO': '',
+  'FLAG-RELEVANCIA': 'NAO',
+  DOI: '',
+  'TITULO-DO-TRABALHO-INGLES': '',
+  'FLAG-DIVULGACAO-CIENTIFICA': 'NAO'
+}
+* PAIS-DO-EVENTO ====> COMPLETO
+* DETALHAMENTO-DO-TRABALHO ====> [
+  {
+    '$': {
+      NATUREZA: 'COMPLETO',
+      'TITULO-DO-TRABALHO': 'Considerações sobre a evolução tectônica da Bacia do São Francisco.',
+      'ANO-DO-TRABALHO': '1988',
+      'PAIS-DO-EVENTO': 'Brasil',
+      IDIOMA: 'Português',
+      'MEIO-DE-DIVULGACAO': 'IMPRESSO',
+      'HOME-PAGE-DO-TRABALHO': '',
+      'FLAG-RELEVANCIA': 'NAO',
+      DOI: '',
+      'TITULO-DO-TRABALHO-INGLES': '',
+      'FLAG-DIVULGACAO-CIENTIFICA': 'NAO'
+    }
+  }
+]
+* Title ====> {
+  'TRABALHO-EM-EVENTOS': [
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array],
+      'PALAVRAS-CHAVE': [Array],
+      'AREAS-DO-CONHECIMENTO': [Array],
+      'SETORES-DE-ATIVIDADE': [Array]
+    },
+    {
+      '$': [Object],
+      'DADOS-BASICOS-DO-TRABALHO': [Array],
+      'DETALHAMENTO-DO-TRABALHO': [Array],
+      AUTORES: [Array]
+    },
+    ... 62 more items
+  ]
+}
+RESULT {
+  Title: 'Trabalhos em eventos',
+  'DETALHAMENTO-DO-TRABALHO': {},
+  'PAIS-DO-EVENTO': {},
+  NATUREZA: {}
+}
