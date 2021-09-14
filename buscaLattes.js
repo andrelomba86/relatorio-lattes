@@ -60,7 +60,7 @@ const hasSubKeys = obj => typeof obj === 'object' && !!Object.keys(obj).length
 
 async function scanAuthors(lattesData) {
   let authors = []
-  console.log(lattesData)
+  // console.log(lattesData)
   for (let author of lattesData) {
     authors.push(author['$']['NOME-PARA-CITACAO'].split(';')[0])
   }
@@ -70,8 +70,9 @@ async function scanAuthors(lattesData) {
 
 async function scanMultipleData(keys, lattesData) {
   let collectMultiple = []
-  for (let key in lattesData) {
-    const data = await scanSubitens(keys[0], lattesData[0])
+  // console.log(lattesData)
+  for (let key of lattesData) {
+    const data = await scanSubitens(keys, key)
     collectMultiple.push(data)
   }
   // console.log(collectMultiple)
@@ -89,16 +90,13 @@ async function scanSubitens(keys, lattesData) {
       // let fullResult = []
       if (nextKeys.MultipleData) {
         /* RETURN ??? */
-        return scanMultipleData(nextKeys, newLattesData)
+        return scanMultipleData(nextKeys[0], newLattesData)
       } else if (key === 'AUTORES') {
-        /* RETURN
+        // console.log('AUTORES', newLattesData)
 
-        FIXME: está escaneando os mesmos autores (provavelmente do primeiro ou ultimo item)
-
-
-
-        */
         scanResult = await scanAuthors(newLattesData)
+        console.log(scanResult)
+        process.exit(0)
       } else if (nextKeys.Column) {
         scanResult = { [nextKeys.Column]: newLattesData }
         // console.log(nextKeys.Column)
@@ -124,7 +122,7 @@ export async function scanLattes(keys, lattesData, isSubItem = false) {
 
     if (nextKeys['Title']) {
       const result = await scanSubitens(nextKeys[0], newLattesData[0], true)
-      // console.log('RESULT', result)
+      console.log('RESULT', result)
     } else if (hasSubKeys(nextKeys)) {
       await scanLattes(nextKeys, newLattesData, false)
     }

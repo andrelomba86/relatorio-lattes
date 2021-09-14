@@ -1,4 +1,6 @@
-import { readdir, readFile } from 'fs/promises'
+//import { readFile } from 'fs/promises'
+import { promises } from 'fs'
+const { readFile, writeFile } = promises
 
 import xml2js from 'xml2js'
 const parser = new xml2js.Parser()
@@ -27,6 +29,10 @@ export const getLattesData = (function () {
     }
 
     const lattesJSON = await parser.parseStringPromise(dadosCurriculo[arquivo])
+
+    // const JSONs = JSON.stringify(lattesJSON)
+
+    // writeFile('./dados.json', JSONs, 'utf8')
 
     // const dadosProducaoJSON = lattesJSON[CURRICULO][PRODUCAO][0]
     return lattesJSON
