@@ -21,8 +21,8 @@ async function getAuthors(lattesData) {
 async function collectDataSubitens(keys, lattesData, fullName) {
   let collectedSubitens = {}
   if (!lattesData) {
-    console.log('no lattesData - keys:', keys)
-    return ''
+    console.log('!lattesData >>>> subkeys:', lattesData)
+    return
   }
   for (let key in keys) {
     const nextKeys = keys[key]
@@ -58,22 +58,30 @@ async function collectDataSubitens(keys, lattesData, fullName) {
 
 async function collectData(keys, lattesData, fullName) {
   let collectMultiple = []
-  for (let key of lattesData) {
-    // let data = await scanSubitens(keys, key, fullName)
-    let data = await collectDataSubitens(keys, key, fullName)
+
+  if (!lattesData) return collectMultiple
+
+  for (let subLattesData of lattesData) {
+    let data = await collectDataSubitens(keys, subLattesData, fullName)
     data = { ...data, Docente: fullName }
     if (checarAno(data['Ano'])) {
       collectMultiple.push(data)
     }
   }
+
   return collectMultiple
 }
 
 async function scanSubitens(keys, lattesData, fullName) {
   let arrayMudarDeNome = []
+  if (!lattesData) {
+    console.log('!lattesData **** subkeys:', keys)
+    return
+  }
+
   for (let key in keys) {
     const nextKeys = keys[key]
-    if (!lattesData) continue
+    // if (!lattesData) continue
     let newLattesData = lattesData[key]
     if (hasSubKeys(nextKeys)) {
       // let scanResult
@@ -106,7 +114,9 @@ export async function scanLattes(keys, lattesData, fullName, resultCallback) {
     const nextKeys = keys[key]
 
     let newLattesData = lattesData[key]
-    if (!newLattesData) continue
+    if (!newLattesData) {
+      continue
+    }
 
     if (nextKeys['Sheet']) {
       const result = await scanSubitens(nextKeys[0], newLattesData[0], fullName)
@@ -164,7 +174,6 @@ const init = async () => {
 
     for (let sheet in fullData) {
       let order = columnsOrders[sheet] || undefined
-      console.log(sheet, order)
       exportarParaExcel(XLSfile, fullData[sheet], sheet, order)
       process.stdout.write('.')
     }
