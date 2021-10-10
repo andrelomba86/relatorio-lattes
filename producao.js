@@ -9,7 +9,7 @@ import {
   OUTRAS,
   TECNICAS,
 } from './consts.js'
-import { checarAnoTrabalhos } from './checarAno.js'
+import { checarAno } from './checarAno.js'
 import { lerCurriculo } from './lerCurriculo.js'
 
 import xml2js from 'xml2js'
@@ -64,7 +64,7 @@ export async function artigosPublicados(arquivo) {
 
         const ano = parseInt(dados[ARTIGOS.ANO])
 
-        if (checarAnoTrabalhos(ano)) {
+        if (checarAno(ano)) {
           artigosLista[index] = {
             Arquivo: arquivo,
             Ano: ano,
@@ -103,7 +103,7 @@ export async function publicaoesEmEventos(arquivo) {
 
       const ano = parseInt(dados[EVENTOS.ANO])
 
-      if (checarAnoTrabalhos(ano)) {
+      if (checarAno(ano)) {
         eventosLista[index] = {
           Arquivo: arquivo,
           Ano: ano,
@@ -146,7 +146,7 @@ export async function livrosPublicadosOuOrganizados(arquivo) {
 
     const ano = parseInt(dados[LIVROS.PUBLICADO_OU_ORGANIZADO.ANO])
 
-    if (checarAnoTrabalhos(ano)) {
+    if (checarAno(ano)) {
       livrosLista[index] = {
         Arquivo: arquivo,
         Ano: ano,
@@ -189,7 +189,7 @@ export async function capitulosDeLivros(arquivo) {
 
     const ano = parseInt(dados[LIVROS.CAPITULO.ANO])
 
-    if (checarAnoTrabalhos(ano)) {
+    if (checarAno(ano)) {
       capitulosLista[index] = {
         Arquivo: arquivo,
         Ano: ano,
@@ -232,7 +232,7 @@ export async function jornalOuRevista(arquivo) {
 
     const ano = parseInt(dados[JORNAIS_REVISTAS.ANO])
 
-    if (checarAnoTrabalhos(ano)) {
+    if (checarAno(ano)) {
       jornaisOuRevistasLista[index] = {
         Arquivo: arquivo,
         Ano: ano,
@@ -273,7 +273,7 @@ export async function outrasProducoes(arquivo) {
 
     const ano = parseInt(dados[OUTRAS.ANO])
 
-    if (checarAnoTrabalhos(ano)) {
+    if (checarAno(ano)) {
       outrasLista[index] = {
         Arquivo: arquivo,
         Ano: ano,
@@ -317,7 +317,7 @@ export async function todasProducoesTecnicas(arquivo) {
 
     const ano = parseInt(dados[TECNICAS.ANO])
 
-    if (checarAnoTrabalhos(ano)) {
+    if (checarAno(ano)) {
       tecnicasLista[index] = {
         Arquivo: arquivo,
         Ano: ano,

@@ -1,5 +1,5 @@
-let anoDoRelatorio = 2019
+let anoDoRelatorio = 2002
 
-export function checarAnoTrabalhos(ano) {
+export function checarAno(ano) {
   return ano == anoDoRelatorio
 }

@@ -1,6 +1,6 @@
 //import { readFile } from 'fs/promises'
 import { promises } from 'fs'
-const { readFile, writeFile } = promises
+const { readFile } = promises
 
 import xml2js from 'xml2js'
 const parser = new xml2js.Parser()
@@ -11,30 +11,17 @@ export async function readLattes(arquivo) {
   return readFile(dir + arquivo, 'binary')
 }
 
-// async function lerTodosCurriculos(callback) {
-//   const files = await readdir(dir)
-//   // CHECAR SE É XML
-
-//   return files
-//   // files.forEach(file => {
-//   //   console.log(file)
-//   //   const curriculo = lerCurriculo(file)
-//   // })
-// }
 export const getLattesData = (function () {
   let dadosCurriculo = {}
-  return async arquivo => {
-    if (!dadosCurriculo[arquivo]) {
-      dadosCurriculo[arquivo] = await readLattes(arquivo)
+  return async fileName => {
+    if (!dadosCurriculo[fileName]) {
+      const fileContent = await readLattes(fileName)
+      // dadosCurriculo[arquivo] = await readLattes(arquivo)
+      dadosCurriculo[fileName] = await parser.parseStringPromise(fileContent)
     }
 
-    const lattesJSON = await parser.parseStringPromise(dadosCurriculo[arquivo])
+    //const lattesJSON = await parser.parseStringPromise(dadosCurriculo[fileName])
 
-    // const JSONs = JSON.stringify(lattesJSON)
-
-    // writeFile('./dados.json', JSONs, 'utf8')
-
-    // const dadosProducaoJSON = lattesJSON[CURRICULO][PRODUCAO][0]
-    return lattesJSON
+    return dadosCurriculo[fileName]
   }
 })()
