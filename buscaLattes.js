@@ -73,10 +73,11 @@ async function collectData(keys, lattesData, fullName) {
 }
 
 async function scanSubitens(keys, lattesData, fullName) {
+  //TODO: mudar array de nome
   let arrayMudarDeNome = []
   if (!lattesData) {
-    console.log('!lattesData **** subkeys:', keys)
-    return
+    // console.log('!lattesData **** subkeys:', keys)
+    return arrayMudarDeNome
   }
 
   for (let key in keys) {
